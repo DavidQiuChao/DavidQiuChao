@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-✨Here are some ideas to get you started✨:
+✨Here are some information on me✨:
 
 - 🔭 I’m currently working on vehicle interior cabin vision system. 
 - :car: I'm also interested in autopilot system.
