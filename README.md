@@ -4,5 +4,5 @@
 
 ✨Here are some information on me✨:
 
-- 🔭 I’m currently working on vehicle interior cabin vision system. 
+- 🔭 I’m currently working on DMS, OMS and ADAS. 
 - :car: I'm also interested in autopilot system.
