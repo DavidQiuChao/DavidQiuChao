@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-✨Here are some information on me✨:
+✨Here is some information about me✨:
 
 - 🔭 I’m currently working on DMS, OMS and ADAS. 
-- :car: I'm also interested in autopilot system.
+- :car: I'm also interested in autopilot systems.
